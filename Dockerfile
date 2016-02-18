@@ -1,4 +1,4 @@
-FROM gitlab:dind
+FROM gitlab/dind
 
 MAINTAINER Olivier Balais <obalais@gmail.com>
 
